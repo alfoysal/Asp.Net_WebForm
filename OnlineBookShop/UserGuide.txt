@@ -1,0 +1,36 @@
+Trainee name: Abdullah Al Foysal
+Trainee ID: 1246618
+Batch:   ESAD-CS/NVIT-A/39/01
+
+This is a website project of , created using ASP.NET Web Form.
+
+For Admin access login with the following 
+
+UserName:    admin
+Email:              admin@gmail.com
+Password:      Admin@123
+
+Dashboard is kept for  Admin. But for users who are not Admin, Dashboard elements
+are different as they have no rights to access on some pages.
+
+A general user's access information is given below.
+
+
+
+The following concepts have been used in this project.
+
+1. CRUD
+2. Validation
+3. Update Panel
+4. SiteMapPath
+5. Server Control
+6. Master Page
+7. User Control
+8. Content Page
+9. Pagination
+10. Bootstrap
+11. Authentication/Authorization
+12. LINQ/EntityFramework
+12. Custom Email
+
+
